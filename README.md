@@ -47,7 +47,7 @@ This creates two new folders next to your `docker-compose.yml` file.
 * `wp-data` – used to store and restore database dumps
 * `wp-app` – the location of your WordPress application
 
-The containers are now built and running. You should be able to access the WordPress installation with the configured IP in the browser address. By default it is `http://127.0.0.1:8000` (change in your hosts file).
+The containers are now built and running. You should be able to access the WordPress installation with the configured IP in the browser address. By default it is `http://127.0.0.1:8000` (wait about 10 seconds, consult server using `docker-compose ps`).
 
 For convenience you may add a new entry into your hosts file.
 
