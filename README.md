@@ -51,6 +51,9 @@ The containers are now built and running. You should be able to access the WordP
 
 For convenience you may add a new entry into your hosts file.
 
+## Step by step startup
+For step-by-step following images, access the `/docs` directory on `root` directory.
+
 ## Usage
 
 ### Starting containers
