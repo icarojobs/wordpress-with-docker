@@ -1,6 +1,7 @@
 # WORDPRESS IN DOCKER COMPOSE
+Inspiration: `https://github.com/nezhar/wordpress-docker-compose/tree/master`.
 
-Easy WordPress development environment with Docker and Docker Compose.
+The easiest way to install wordpress in your development environment.
 
 With this project you can quickly run the following:
 
